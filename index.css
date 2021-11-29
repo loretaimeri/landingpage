@@ -1,0 +1,114 @@
+/* index.css */
+body { background-color: grey;
+}
+.one { 
+	background-color: #1F2937;
+	color: white;
+	padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+
+}
+
+.one1 {
+	text-align: left;
+	color: white;
+}
+
+.one2 {
+	text-align: right;
+	color: white;
+	position: top;
+}
+
+.one3 {
+	float: right;
+
+}
+
+.one4 {
+	background-color: navy;
+	border-width: 1px;
+	border-style: solid;
+	border-color: navy;
+	border-radius: 9px;
+	padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+
+}
+
+.two {
+	background-color: white;
+	color: #3882F6;
+	text-align: center;
+	padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+
+}
+
+.photo2 {
+	border-style: solid;
+	border-color: blue;
+	border-radius: 15px;
+}
+
+.three {
+	background-color: #E5E7EB;
+	color: 36px light italic #F2937;
+	text-align: center;
+	padding-top: 60px;
+    padding-right: 40px;
+    padding-bottom: 60px;
+    padding-left: 90px;
+
+}
+
+.four {
+	background-color: white;
+	color: white;
+	text-align: center;
+	padding-top: 40px;
+    padding-right: 40px;
+    padding-bottom: 60px;
+    padding-left: 90px;
+}
+
+.foour {
+	background-color: royalblue;
+	text-align: center;
+	border-width: 1px;
+	border-style: solid;
+	border-color: blue;
+	border-radius: 15px;
+	padding-top: 40px;
+    padding-right: 40px;
+    padding-bottom: 60px;
+    padding-left: 90px;
+}
+
+.fouur {
+	border-width: 1px;
+	border-style: solid;
+	border-color: white;
+	border-radius: 9px;
+	padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
+
+.five {
+	background-color: darkslategray;
+	color: white;
+ 	text-align: center;
+	padding-top: 30px;
+    padding-right: 10px;
+    padding-bottom: 30px;
+    padding-left: 60px;
+
+}
